@@ -1,3 +1,29 @@
+---
+title:  "[천사발굴단] 추천 알고리즘 종류"
+categories: Projects 천사발굴단
+tag: [python, blog, jekyll]
+toc: true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+author_profile: false
+sidebar:
+    nav: "docs"
+# search: false
+typora-root-url: ../
+---
+
 # [천사발굴단] 추천 알고리즘 종류
 
 
