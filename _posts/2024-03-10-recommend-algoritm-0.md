@@ -1,6 +1,6 @@
 ---
 title:  "[천사발굴단] 추천 알고리즘 종류"
-categories: Projects 천사발굴단
+categories: [Projects, 천사발굴단]
 tag: [python, blog, jekyll]
 toc: true
 
@@ -24,7 +24,6 @@ sidebar:
 typora-root-url: ../
 ---
 
-# [천사발굴단] 추천 알고리즘 종류
 
 
 
