@@ -38,9 +38,9 @@ typora-root-url: ../
 - prediction version of problem : 학습 데이터를 통해 유저의 선호도를 정확하게 예측하는 것이 목적이다.
 - ranking version of problem : 정확도보다 랭킹을 고려해서 top k 아이템을 선정하는 게 목적이다.
 
-![Untitled](%5B%E1%84%8E%E1%85%A5%E1%86%AB%E1%84%89%E1%85%A1%E1%84%87%E1%85%A1%E1%86%AF%E1%84%80%E1%85%AE%E1%86%AF%E1%84%83%E1%85%A1%E1%86%AB%5D%20%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7%20%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%85%E1%85%B2%20b92af7d8242d41dfa85194ede94facba/Untitled.png)
+![Untitled](../assets/images/1.png)
 
-![Untitled](%5B%E1%84%8E%E1%85%A5%E1%86%AB%E1%84%89%E1%85%A1%E1%84%87%E1%85%A1%E1%86%AF%E1%84%80%E1%85%AE%E1%86%AF%E1%84%83%E1%85%A1%E1%86%AB%5D%20%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7%20%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%85%E1%85%B2%20b92af7d8242d41dfa85194ede94facba/Untitled%201.png)
+![Untitled](../assets/images/2.png)
 
 ## 협업 필터링
 
